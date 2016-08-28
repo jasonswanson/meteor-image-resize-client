@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'thinksoftware:image-resize-client',
+  name: 'jasonswanson:image-resize-client',
   version: '1.0.0',
   // Brief, one-line summary of the package.
   summary: 'Client-side image resize and crop for file object',
